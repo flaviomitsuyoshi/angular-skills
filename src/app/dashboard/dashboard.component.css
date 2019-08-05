@@ -1,0 +1,11 @@
+.cardList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
+.loading {
+    text-align: center; 
+    position: relative;
+}

@@ -1,3 +1,27 @@
 .example-card {
-    max-width: 400px;
-  }
+  max-width: 400px;
+  height: 500px;
+  background-color: lawngreen;
+  box-sizing: border-box;
+  margin: 10px;
+}
+
+.example-card img {
+  max-width: 400px;
+  max-height: 300px;
+  align-self: center;
+}
+
+button {
+  background-color: green;
+}
+
+.maior5 {
+  font-weight: bold;
+  color: blue;
+}
+
+.maior10 {
+  font-weight: bold;
+  color: red;
+}

@@ -2,3 +2,11 @@ p {
   font-family: Lato;
 }
 
+.title {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center; 
+    position: relative;
+    margin:0;
+  }
+
